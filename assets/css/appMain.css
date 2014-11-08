@@ -1,0 +1,33 @@
+body {
+	padding-top: 0px;
+}
+.bgGrey {
+	background-color: #CCCCCC;
+}
+.midText {
+	text-align: center;
+}
+.midHigh {
+	min-height: 400px;
+}
+small {
+	text-shadow: -1px -1px 1px #333333,
+				1px 1px 1px #EEEEEE;
+}
+.shadowedText {
+	color: #DDDDDD;
+	text-shadow: -1px -1px 1px #333333,
+				1px 1px 1px #EEEEEE;
+}
+.thinGroovText{
+	font-size: 30px;
+	color: #444444;
+	text-shadow: -1px -1px 1px #DDDDDD,
+				1px 1px 1px #EEEEEE;
+}
+.thickGroovText{
+	font-size: 40px;
+	color: #444444;
+	text-shadow: -1px -1px 1px #DDDDDD,
+				1px 1px 1px #EEEEEE;
+}
